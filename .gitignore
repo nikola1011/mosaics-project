@@ -113,6 +113,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Ignore neural models and graphs
+# Neural models and graphs
 *.tar.gz
 *.pb
+
+# Resulting mosaics
+*.jpg
+*.jpeg
+*.png
