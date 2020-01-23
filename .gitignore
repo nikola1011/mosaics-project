@@ -118,6 +118,6 @@ dmypy.json
 *.pb
 
 # Resulting mosaics
-*.jpg
-*.jpeg
-*.png
+*test*.jpg
+*test*.jpeg
+*test*.png
